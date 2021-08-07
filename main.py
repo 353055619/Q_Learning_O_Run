@@ -1,5 +1,5 @@
 from src.Q_Learning_O_Run.env import Env
-from src.Q_Learning_O_Run import build_Q_Table,Brain
+from src.Q_Learning_O_Run.Q_learning import build_Q_Table,Brain
 
 
 if __name__ == '__main__':
