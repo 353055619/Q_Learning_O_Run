@@ -1,4 +1,4 @@
-# Q_learning_utils
+# Q_Learning_O_Run
 **用于Q-learning的学习,内含MDP环境和Q-learning决策大脑**
 
 代码是根据莫凡Q-leaning教学视频修改而来
