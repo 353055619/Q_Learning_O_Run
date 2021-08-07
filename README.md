@@ -9,17 +9,11 @@
 https://mofanpy.com/tutorials/machine-learning/reinforcement-learning/intro-q-learning/
 
 ## 安装
-这是安装到pip仓库的方法,可以当作第三方库使用
 
-仅学习——**不需安装，仅克隆**
-1. 克隆到本地
-    ```shell
-    git clone https://github.com/353055619/Q_learning_utils.git
-    ```
-2. cd到项目文件夹下
-    ```shell
-    python ./setup install
-    ```
+```shell
+pip install Q-Learning-O-Run
+```
+
 ## 使用
 **main.py是使用示例**
 1. 项目文件下运行
