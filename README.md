@@ -24,7 +24,7 @@ https://mofanpy.com/tutorials/machine-learning/reinforcement-learning/intro-q-le
 **main.py是使用示例**
 1. 项目文件下运行
    ```shell
-   python ./main.py
+   python ./tests/test.py
    ``` 
 ## 学习
 > 请看__init__.py和同级的py文件，注释详细
