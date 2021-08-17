@@ -29,6 +29,7 @@ class Env(object):
         :param init_postion: 智能体的初始位置
         :param fresh_time: 每步花费时间
         """
+        print("Env环境初始化")
         self.l = length
         self.env_list = ['-'] * self.l + ['T']
         self.position = init_postion

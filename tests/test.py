@@ -6,7 +6,6 @@ if __name__ == '__main__':
     env = Env(length=6, init_postion=0, fresh_time=0.3)
     q_table = build_Q_Table(Env.ACTION, Size=6)
     q_brain = Brain(q_table, Env.ACTION, Epsilon=0.9, Alpha=0.1, Gamma=0.9)
-
     for episode in range(30):
         env.refresh()
         print(q_table)

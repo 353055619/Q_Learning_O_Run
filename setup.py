@@ -5,7 +5,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
 
 setuptools.setup(
     name="Q-Learning-O-Run",
-    version="0.0.1",
+    version="0.0.2",
     author="Godw",
     author_email="353055619@qq.com",
     description="用于Q-learning的学习,内含MDP环境和Q-learning决策大脑",
